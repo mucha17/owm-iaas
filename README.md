@@ -1,0 +1,1 @@
+This repository contains an Integration as a Service written to use OpenWeatherMap data without paid restrictions. The data from chosen locations is being downloaded by the service and saved in a database.
